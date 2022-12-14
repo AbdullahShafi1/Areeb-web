@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: akira;
-  src: url(/assets/font/Akira.otf);
+  src: url(../font/Akira.otf);
 }
 
 :root {
